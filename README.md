@@ -2,6 +2,8 @@
 
 > A minimalistic deployment dashboard, console style
 
+This is the **client** module for Capacitator - a minimalistic UI dashboard that outputs deployment from a URL endpoint in a grid. It works in conjunction with the **server** module that can store your deployment data.
+
 ## Highlights
 
 - Shows your most recent deploys
